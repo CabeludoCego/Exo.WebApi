@@ -812,3 +812,4 @@ D:\trab2\Geral\Intros\SENAI\backend\backend1\unid14\Exo.WebApi\obj\Debug\net6.0\
 D:\trab2\Geral\Intros\SENAI\backend\backend1\unid14\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.pdb
 D:\trab2\Geral\Intros\SENAI\backend\backend1\unid14\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 D:\trab2\Geral\Intros\SENAI\backend\backend1\unid14\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+D:\trab2\Geral\Intros\SENAI\backend\backend1\unid14\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
