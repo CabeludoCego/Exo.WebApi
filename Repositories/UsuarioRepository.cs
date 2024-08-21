@@ -15,8 +15,9 @@ namespace Exo.WebApi.Repositories
 
 		public Usuario Login(string email, string senha)
 		{
-			return _context.Usuarios.FirstOrDefault(u => u.Email ==
-			email && u.Senha == senha);
+			return _context.Usuarios.FirstOrDefault(
+				u => u.Email == email && u.Senha == senha
+			);
 		}
 
 		public List<Usuario> Listar()
@@ -46,7 +47,7 @@ namespace Exo.WebApi.Repositories
 			_context.Usuarios.Update(usuarioBuscado);
 			_context.SaveChanges();
 		}
-		
+
 		public void Deletar(int id)
 		{
 			Usuario usuarioBuscado = _context.Usuarios.Find(id);
